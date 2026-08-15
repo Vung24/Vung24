@@ -24,7 +24,7 @@ I'm a Unity Developer passionate about building engaging games, smooth gameplay 
 
 ## 🎯 What I Work With
 
-- Unity 2D / 3D
+- Unity 2D
 - C#
 - UI & Gameplay Systems
 - DOTween
@@ -38,11 +38,29 @@ I'm a Unity Developer passionate about building engaging games, smooth gameplay 
 
 ---
 
+## 🚀 Published Games
+
+### 🎯 Spring Spear
+
+A mobile game developed with **Unity & C#**, published on Google Play.
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit&pli=1)
+
+---
+
+### 🧩 Dot Puzzle
+
+A mobile puzzle game developed with **Unity & C#**, published on Google Play.
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect)
+
+---
 
 ## 📫 Contact
 
 - GitHub: [@Vung24](https://github.com/Vung24)
-
-- Mail: Vung030524@gmail.com
+- Email: [Vung030524@gmail.com](mailto:Vung030524@gmail.com)
+- Phone: 0397157544
+---
 
 > 🎮 Always learning, building, and improving one game at a time.
