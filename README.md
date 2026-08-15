@@ -38,18 +38,11 @@ I'm a Unity Developer passionate about building engaging games, smooth gameplay 
 
 ---
 
-## 📊 GitHub Stats
-
-![Vung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vung24&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vung24&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
 - GitHub: [@Vung24](https://github.com/Vung24)
 
----
+- Mail: Vung030524@gmail.com
 
 > 🎮 Always learning, building, and improving one game at a time.
