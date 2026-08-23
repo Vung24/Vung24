@@ -1,4 +1,4 @@
-# Hi there, I'm Vung 👋
+# I'm Vung
 
 ### 🎮 Unity Developer | Game Developer
 
