@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Vung — Unity Game Developer</title>
+<desc id="desc">Neon navy and violet banner with typography and an abstract game board.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E22"/><stop offset=".54" stop-color="#16163B"/><stop offset="1" stop-color="#0B213D"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59E2FF"/><stop offset="1" stop-color="#A68BFF"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4D4EE5"/><stop offset="1" stop-color="#1BBEDF"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#8D78FF" stop-opacity=".36"/><stop offset="1" stop-color="#8D78FF" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<g><path d="M0 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M105 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M210 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M315 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M420 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M525 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M630 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M735 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M840 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M945 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M1050 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M1155 0V360" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M1260 0V360" stroke="#8CA5E7" stroke-opacity=".075"/><path d="M0 0H1200" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M0 90H1200" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M0 180H1200" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M0 270H1200" stroke="#8CA5E7" stroke-opacity=".075"/>
+<path d="M0 360H1200" stroke="#8CA5E7" stroke-opacity=".075"/></g>
+<circle cx="940" cy="182" r="230" fill="url(#orb)"/>
+<path d="M0 0H1200V360H0Z" fill="none" stroke="#A8B9FF" stroke-opacity=".16" stroke-width="2"/>
+<rect x="70" y="48" width="238" height="33" rx="16.5" fill="#0D3047" stroke="#307990" stroke-width="1.5"/>
+<circle cx="90" cy="64.5" r="5" fill="#53E2BD"/>
+<text x="106" y="70" font-family="Arial, sans-serif" font-size="13.5" letter-spacing="2.3" font-weight="bold" fill="#A6EDFF">GAME DEV PORTFOLIO</text>
+<text x="67" y="172" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="-1.5" fill="#F4F7FF">HI, I'M <tspan fill="#77E3FF">VUNG</tspan></text>
+<rect x="72" y="190" width="415" height="4" rx="2" fill="url(#a)"/>
+<text x="70" y="239" font-family="Arial, sans-serif" font-size="26" font-weight="bold" letter-spacing="3" fill="#D2CCFF">UNITY / C# DEVELOPER</text>
+<text x="72" y="275" font-family="Arial, sans-serif" font-size="16.5" fill="#A9BAD9">Gameplay systems   •   Game feel   •   Mobile games</text>
+<text x="72" y="317" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#79DAED">BUILD  /  PLAYTEST  /  POLISH  /  REPEAT</text>
+<g transform="translate(838 45)">
+  <rect x="10" y="1" width="292" height="275" rx="34" fill="#554EEA" opacity=".26" filter="url(#glow)"/>
+  <rect x="15" y="7" width="277" height="270" rx="31" fill="#0D1935" stroke="#5D6BC4" stroke-opacity=".75" stroke-width="2"/>
+  <path d="M60 235V166Q60 146 81 146H132Q155 146 155 125V80Q155 62 175 62H247" fill="none" stroke="#15344F" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 235V166Q60 146 81 146H132Q155 146 155 125V80Q155 62 175 62H247" fill="none" stroke="#58DFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 11" />
+  <circle cx="60" cy="235" r="20" fill="#17294B" stroke="#63E8DB" stroke-width="3"/>
+  <circle cx="60" cy="235" r="6" fill="#72F2DB"/>
+  <circle cx="247" cy="62" r="23" fill="#2D285D" stroke="#B5A0FF" stroke-width="3"/>
+  <path d="M247 45L263 62L247 79L231 62Z" fill="#B9A5FF"/>
+  <g transform="translate(89 38)"><path d="M0 24L35 4L70 24L35 44Z" fill="#9C8AFF"/><path d="M0 24L35 44V85L0 64Z" fill="#5A56C5"/><path d="M70 24L35 44V85L70 64Z" fill="#3AC5E8"/><path d="M35 44L35 85" stroke="#C0EAFF" stroke-width="1.5" opacity=".5"/></g>
+  <rect x="189" y="163" width="61" height="61" rx="14" fill="url(#card)" opacity=".85" transform="rotate(12 219 193)"/>
+  <circle cx="220" cy="194" r="13" fill="#D9F8FF" opacity=".95"/>
+  <circle cx="220" cy="194" r="5" fill="#3A77CA"/>
+  <circle cx="121" cy="146" r="9" fill="#60E5FF"/>
+  <circle cx="121" cy="146" r="15" stroke="#60E5FF" stroke-opacity=".4" fill="none" stroke-width="2"/>
+</g>
+<circle cx="822" cy="54" r="2.5" fill="#98E8FF" opacity=".75"/>
+<circle cx="1124" cy="57" r="3" fill="#98E8FF" opacity=".75"/>
+<circle cx="1021" cy="299" r="3" fill="#98E8FF" opacity=".75"/>
+<circle cx="119" cy="295" r="2" fill="#98E8FF" opacity=".75"/>
+<circle cx="648" cy="68" r="2.5" fill="#98E8FF" opacity=".75"/>
+<circle cx="727" cy="285" r="3" fill="#98E8FF" opacity=".75"/>
+</svg>
