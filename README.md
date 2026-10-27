@@ -54,46 +54,40 @@ I'm **Vung**, a **Unity / C# Game Developer** focused on building engaging mobil
 > A selection of public Unity projects and gameplay prototypes. **LoopMaster** is my most recently updated project.
 
 <table>
+<tr><td width="100%" valign="top">
+<h3>🌀 <a href="https://github.com/Vung24/LoopMaster">LoopMaster</a> &nbsp; <img alt="Current Project" src="https://img.shields.io/badge/CURRENT_PROJECT-5847BC?style=flat-square"/></h3>
+<p><strong>My latest Unity puzzle game project.</strong> Built around path-based gameplay, board interactions, level progression, boosters, and responsive game feel. I focus on maintainable gameplay systems and polishing the player experience.</p>
+<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Gameplay Systems" src="https://img.shields.io/badge/Gameplay_Systems-7047A6?style=flat-square"/> <img alt="Game Feel" src="https://img.shields.io/badge/Game_Feel-158B9F?style=flat-square"/></p>
+<a href="https://github.com/Vung24/LoopMaster"><b>Explore LoopMaster →</b></a>
+</td></tr>
+</table>
+<table>
 <tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Vung24/LoopMaster">🌀 LoopMaster</a></h3>
-<p>A path-driven puzzle game with board interactions, level flow, boosters, and ongoing game-feel improvements.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Gameplay Systems" src="https://img.shields.io/badge/Gameplay Systems-7047A6?style=flat-square"/></p>
-<a href="https://github.com/Vung24/LoopMaster"><b>View repository →</b></a>
-</td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Vung24/MagicSort">🧪 MagicSort</a></h3>
 <p>A color-sorting puzzle project featuring tubes, beakers, level loading, input handling, and power-ups.</p>
 <p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Puzzle" src="https://img.shields.io/badge/Puzzle-7047A6?style=flat-square"/></p>
 <a href="https://github.com/Vung24/MagicSort"><b>View repository →</b></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Vung24/Match3">🎯 Match3</a></h3>
 <p>A tray-based matching prototype with animations, win/lose states, and multiple gameplay modes.</p>
 <p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Prototype" src="https://img.shields.io/badge/Prototype-7047A6?style=flat-square"/></p>
 <a href="https://github.com/Vung24/Match3"><b>View repository →</b></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Vung24/Grill-Sort">🍢 Grill-Sort</a></h3>
 <p>A food-sorting prototype built around drag-and-drop interactions, grill stations, and level generation.</p>
 <p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Interaction" src="https://img.shields.io/badge/Interaction-7047A6?style=flat-square"/></p>
 <a href="https://github.com/Vung24/Grill-Sort"><b>View repository →</b></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Vung24/MagicBloom">🌸 MagicBloom</a></h3>
 <p>A liquid-sorting puzzle prototype with tubes, liquid segments, spawning, and gameplay management.</p>
 <p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Puzzle" src="https://img.shields.io/badge/Puzzle-7047A6?style=flat-square"/></p>
 <a href="https://github.com/Vung24/MagicBloom"><b>View repository →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Vung24/Slime">🟢 Slime</a></h3>
-<p>A Unity project exploring slime interactions, visual effects, UI, and object pooling.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Effects" src="https://img.shields.io/badge/Effects-7047A6?style=flat-square"/></p>
-<a href="https://github.com/Vung24/Slime"><b>View repository →</b></a>
 </td>
 </tr>
 </table>
