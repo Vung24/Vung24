@@ -49,6 +49,27 @@ I'm **Vung**, a **Unity / C# Game Developer** focused on building engaging mobil
 
 ---
 
+## 📱 Published Mobile Games
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎯 Spear Master: Aim &amp; Hit</h3>
+<p><i>Spring Spear project</i></p>
+<p>A mobile action game built around aiming, timing, spring-powered throws, and satisfying impact feedback.</p>
+<a href="https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit"><img src="https://img.shields.io/badge/Google_Play-View_on_Store-153A57?style=for-the-badge&logo=google-play&logoColor=white" alt="Get Spear Master on Google Play"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌷 Lovely Blooms: Dot Connect</h3>
+<p><i>Dot Puzzle project</i></p>
+<p>A relaxing mobile puzzle game about connecting numbered dots to complete blooming floral shapes.</p>
+<a href="https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect"><img src="https://img.shields.io/badge/Google_Play-View_on_Store-153A57?style=for-the-badge&logo=google-play&logoColor=white" alt="Get Lovely Blooms on Google Play"/></a>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎮 Featured Projects
 
 > A selection of public Unity projects and gameplay prototypes. **LoopMaster** is my most recently updated project.
@@ -93,27 +114,6 @@ I'm **Vung**, a **Unity / C# Game Developer** focused on building engaging mobil
 </table>
 
 <p align="right"><a href="https://github.com/Vung24?tab=repositories"><b>Explore all repositories →</b></a></p>
-
----
-
-## 📱 Published Mobile Games
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🎯 Spear Master: Aim &amp; Hit</h3>
-<p><i>Spring Spear project</i></p>
-<p>A mobile action game built around aiming, timing, spring-powered throws, and satisfying impact feedback.</p>
-<a href="https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit"><img src="https://img.shields.io/badge/Google_Play-View_on_Store-153A57?style=for-the-badge&logo=google-play&logoColor=white" alt="Get Spear Master on Google Play"/></a>
-</td>
-<td width="50%" valign="top">
-<h3>🌷 Lovely Blooms: Dot Connect</h3>
-<p><i>Dot Puzzle project</i></p>
-<p>A relaxing mobile puzzle game about connecting numbered dots to complete blooming floral shapes.</p>
-<a href="https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect"><img src="https://img.shields.io/badge/Google_Play-View_on_Store-153A57?style=for-the-badge&logo=google-play&logoColor=white" alt="Get Lovely Blooms on Google Play"/></a>
-</td>
-</tr>
-</table>
 
 ---
 
