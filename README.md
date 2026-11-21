@@ -1,138 +1,132 @@
 <div align="center">
 
-![Vung | Unity Game Developer](./assets/vung-hero.svg)
+<img src="./assets/vung-hero.svg" alt="Vung — Unity Game Developer" width="100%"/>
 
-<a href="https://github.com/Vung24"><img src="https://img.shields.io/badge/GitHub-Vung24-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:Vung030524@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-0F7899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Focus-Mobile_Games_%26_Game_Feel-6447B3?style=for-the-badge" alt="Focus on Mobile Games and Game Feel"/>
+<p>
+  <a href="https://vung24.github.io"><img src="https://img.shields.io/badge/Portfolio-vung24.github.io-6447B3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:Vung030524@gmail.com"><img src="https://img.shields.io/badge/Email-Vung030524%40gmail.com-0F7899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit"><img src="https://img.shields.io/badge/Shipped-2_Games_on_Google_Play-153A57?style=for-the-badge&logo=googleplay&logoColor=white" alt="2 games on Google Play"/></a>
+</p>
 
-**I build gameplay that feels good to play — from the first tap to the final polish.**
-
-</div>
-
-## 👋 About Me
-
-I'm **Vung**, a **Unity / C# Game Developer** focused on building engaging mobile games, responsive gameplay systems, and polished player experiences.
-
-- 🕹️ **I build:** gameplay loops, UI interactions, level systems, and player feedback.
-- ⚙️ **I work with:** Unity, C#, DOTween, Addressables, object pooling, and optimization.
-- 📱 **I integrate:** Firebase, analytics events, IAP, and third-party mobile SDKs.
-- 🌱 **I'm exploring:** game architecture, performance, game feel, and playable ads.
-- 🤝 **I'm open to:** collaborating on Unity games and interesting gameplay ideas.
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Engine & Development**
-
-<img src="https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/C%23-59359B?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-
-**Gameplay & UI**
-
-<img src="https://img.shields.io/badge/DOTween-7347B2?style=for-the-badge" alt="DOTween"/>
-<img src="https://img.shields.io/badge/Addressables-2676A5?style=for-the-badge" alt="Addressables"/>
-<img src="https://img.shields.io/badge/Object_Pooling-237C86?style=for-the-badge" alt="Object Pooling"/>
-<img src="https://img.shields.io/badge/Game_Feel-9E448E?style=for-the-badge" alt="Game Feel"/>
-
-**Mobile & Services**
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Analytics-237A8D?style=for-the-badge" alt="Analytics"/>
-<img src="https://img.shields.io/badge/In--App_Purchases-2B7C75?style=for-the-badge" alt="In-App Purchases"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android"/>
+### Unity / C# developer building mobile games that feel good from the first tap.
 
 </div>
 
 ---
 
-## 📱 Published Mobile Games
+## About
+
+I'm **Vung**, a Unity game developer focused on **mobile puzzle and casual games**. I've shipped two titles to Google Play and built a series of puzzle prototypes, each one a chance to get better at the parts players actually feel: input response, animation timing, feedback and flow.
+
+```csharp
+public class Vung : GameDeveloper
+{
+    public string[] Builds    => new[] { "Gameplay loops", "Level systems", "UI & juice", "Boosters" };
+    public string[] Ships     => new[] { "Android", "Firebase", "Analytics", "IAP", "Ad SDKs" };
+    public string   Exploring => "Game architecture, performance & playable ads";
+    public string   OpenTo    => "Unity game roles and collaborations";
+}
+```
+
+## Shipped on Google Play
+
+| | Game | What I built |
+|:-:|---|---|
+| 🎯 | **[Spear Master: Aim & Hit](https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit)** | Spring-powered throwing, aim and timing mechanics, hit feedback and impact effects |
+| 🌷 | **[Lovely Blooms: Dot Connect](https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect)** | Dot-connect puzzle with numbered paths, blooming floral reveals and level progression |
+
+## Featured Projects
 
 <table>
 <tr>
+<td colspan="2">
+
+### 🌀 [LoopMaster](https://github.com/Vung24/LoopMaster) &nbsp;`current project`
+
+A path-based puzzle game with board interactions, level progression and boosters. My focus here is a **maintainable gameplay architecture** (systems that can take new mechanics without rewrites) and responsive game feel.
+
+`Unity` `C#` `Gameplay Systems` `Boosters` `Level Progression`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<h3>🎯 Spear Master: Aim &amp; Hit</h3>
-<p><i>Spring Spear project</i></p>
-<p>A mobile action game built around aiming, timing, spring-powered throws, and satisfying impact feedback.</p>
-<a href="https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit"><img src="https://img.shields.io/badge/Google_Play-View_on_Store-153A57?style=for-the-badge&logo=google-play&logoColor=white" alt="Get Spear Master on Google Play"/></a>
+
+### 🧪 [MagicSort](https://github.com/Vung24/MagicSort)
+Color-sort puzzle with tubes and beakers, data-driven level loading, input handling and power-ups.
+
+`Puzzle` `Level Data` `Power-ups`
+
 </td>
 <td width="50%" valign="top">
-<h3>🌷 Lovely Blooms: Dot Connect</h3>
-<p><i>Dot Puzzle project</i></p>
-<p>A relaxing mobile puzzle game about connecting numbered dots to complete blooming floral shapes.</p>
-<a href="https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect"><img src="https://img.shields.io/badge/Google_Play-View_on_Store-153A57?style=for-the-badge&logo=google-play&logoColor=white" alt="Get Lovely Blooms on Google Play"/></a>
+
+### 🎯 [Match3](https://github.com/Vung24/Match3)
+Tray-based matching prototype with win/lose states, multiple game modes and tweened animations.
+
+`Matching` `Game Modes` `DOTween`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍢 [Grill-Sort](https://github.com/Vung24/Grill-Sort)
+Food-sorting prototype built on drag-and-drop interactions, grill stations and level generation.
+
+`Drag & Drop` `Level Generation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌸 [MagicBloom](https://github.com/Vung24/MagicBloom)
+Liquid-sort puzzle with segmented liquids, pour logic, spawning and a central game manager.
+
+`Puzzle` `Pour Logic` `Spawning`
+
 </td>
 </tr>
 </table>
+
+<p align="right"><a href="https://github.com/Vung24?tab=repositories">All repositories →</a></p>
+
+## Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/DOTween-7347B2?style=flat-square" alt="DOTween"/>
+  <img src="https://img.shields.io/badge/Addressables-2676A5?style=flat-square" alt="Addressables"/>
+  <img src="https://img.shields.io/badge/Object_Pooling-237C86?style=flat-square" alt="Object Pooling"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/IAP-2B7C75?style=flat-square" alt="In-App Purchases"/>
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+</p>
+
+## How I Work
+
+```
+ BUILD  ──▶  PLAYTEST  ──▶  FEEL  ──▶  OPTIMIZE  ──▶  POLISH
+   ▲                                                    │
+   └────────────────────── iterate ─────────────────────┘
+```
+
+Start from one mechanic, get it in players' hands fast, then tune until every tap has a clear response. Keep the code clean enough that the next feature is easy to add.
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vung24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b7cf6&icon_color=22b8cf&text_color=c9d1d9" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vung24&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b7cf6&text_color=c9d1d9" alt="Top languages"/>
+</div>
 
 ---
-
-## 🎮 Featured Projects
-
-> A selection of public Unity projects and gameplay prototypes. **LoopMaster** is my most recently updated project.
-
-<table>
-<tr><td width="100%" valign="top">
-<h3>🌀 <a href="https://github.com/Vung24/LoopMaster">LoopMaster</a> &nbsp; <img alt="Current Project" src="https://img.shields.io/badge/CURRENT_PROJECT-5847BC?style=flat-square"/></h3>
-<p><strong>My latest Unity puzzle game project.</strong> Built around path-based gameplay, board interactions, level progression, boosters, and responsive game feel. I focus on maintainable gameplay systems and polishing the player experience.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Gameplay Systems" src="https://img.shields.io/badge/Gameplay_Systems-7047A6?style=flat-square"/> <img alt="Game Feel" src="https://img.shields.io/badge/Game_Feel-158B9F?style=flat-square"/></p>
-<a href="https://github.com/Vung24/LoopMaster"><b>Explore LoopMaster →</b></a>
-</td></tr>
-</table>
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Vung24/MagicSort">🧪 MagicSort</a></h3>
-<p>A color-sorting puzzle project featuring tubes, beakers, level loading, input handling, and power-ups.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Puzzle" src="https://img.shields.io/badge/Puzzle-7047A6?style=flat-square"/></p>
-<a href="https://github.com/Vung24/MagicSort"><b>View repository →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Vung24/Match3">🎯 Match3</a></h3>
-<p>A tray-based matching prototype with animations, win/lose states, and multiple gameplay modes.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Prototype" src="https://img.shields.io/badge/Prototype-7047A6?style=flat-square"/></p>
-<a href="https://github.com/Vung24/Match3"><b>View repository →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Vung24/Grill-Sort">🍢 Grill-Sort</a></h3>
-<p>A food-sorting prototype built around drag-and-drop interactions, grill stations, and level generation.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Interaction" src="https://img.shields.io/badge/Interaction-7047A6?style=flat-square"/></p>
-<a href="https://github.com/Vung24/Grill-Sort"><b>View repository →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Vung24/MagicBloom">🌸 MagicBloom</a></h3>
-<p>A liquid-sorting puzzle prototype with tubes, liquid segments, spawning, and gameplay management.</p>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-303952?style=flat-square"/> <img alt="C#" src="https://img.shields.io/badge/C%23-126C85?style=flat-square"/> <img alt="Puzzle" src="https://img.shields.io/badge/Puzzle-7047A6?style=flat-square"/></p>
-<a href="https://github.com/Vung24/MagicBloom"><b>View repository →</b></a>
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://github.com/Vung24?tab=repositories"><b>Explore all repositories →</b></a></p>
-
----
-
-## ✨ How I Approach Games
-
-`BUILD` → `PLAYTEST` → `FEEL` → `OPTIMIZE` → `POLISH`
-
-I enjoy turning a simple mechanic into a complete, responsive experience — with clean code, clear feedback, and attention to the small details players notice.
-
-## 📫 Let's Connect
-
-- **GitHub:** [@Vung24](https://github.com/Vung24)
-- **Email:** [Vung030524@gmail.com](mailto:Vung030524@gmail.com)
-- **Phone:** 0397157544
 
 <div align="center">
 
----
+**Building, playtesting and polishing, one game at a time.**
 
-**🎮 Always learning, building, and improving one game at a time.**
+[Portfolio](https://vung24.github.io) · [Email](mailto:Vung030524@gmail.com) · [Google Play](https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect)
 
 </div>
