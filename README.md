@@ -3,7 +3,7 @@
 <img src="./assets/vung-hero.svg" alt="Vung — Unity Game Developer" width="100%"/>
 
 <p>
-  <a href="https://vung24.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-vung24.github.io%2FPortfolio-6447B3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://vung24.github.io"><img src="https://img.shields.io/badge/Portfolio-vung24.github.io-6447B3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:Vung030524@gmail.com"><img src="https://img.shields.io/badge/Email-Vung030524%40gmail.com-0F7899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.spear.throwing.aim.hit"><img src="https://img.shields.io/badge/Shipped-2_Games_on_Google_Play-153A57?style=for-the-badge&logo=googleplay&logoColor=white" alt="2 games on Google Play"/></a>
 </p>
@@ -127,6 +127,6 @@ Start from one mechanic, get it in players' hands fast, then tune until every ta
 
 **Building, playtesting and polishing, one game at a time.**
 
-[Portfolio](https://vung24.github.io/Portfolio/) · [Email](mailto:Vung030524@gmail.com) · [Google Play](https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect)
+[Portfolio](https://vung24.github.io) · [Email](mailto:Vung030524@gmail.com) · [Google Play](https://play.google.com/store/apps/details?id=com.lovely.blooms.dot.connect)
 
 </div>
