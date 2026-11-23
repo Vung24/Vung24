@@ -18,16 +18,6 @@
 
 I'm **Vung**, a Unity game developer focused on **mobile puzzle and casual games**. I've shipped two titles to Google Play and built a series of puzzle prototypes, each one a chance to get better at the parts players actually feel: input response, animation timing, feedback and flow.
 
-```csharp
-public class Vung : GameDeveloper
-{
-    public string[] Builds    => new[] { "Gameplay loops", "Level systems", "UI & juice", "Boosters" };
-    public string[] Ships     => new[] { "Android", "Firebase", "Analytics", "IAP", "Ad SDKs" };
-    public string   Exploring => "Game architecture, performance & playable ads";
-    public string   OpenTo    => "Unity game roles and collaborations";
-}
-```
-
 ## Shipped on Google Play
 
 | | Game | What I built |
